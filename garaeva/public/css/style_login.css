@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h2{
+    color: aqua;
+    position: absolute;
+    justify-content: center;
+    top: 40vh;
+}
+
+#email{
+    margin: 10px;
+}
+
+.logT{
+    margin: 10px;
+}
